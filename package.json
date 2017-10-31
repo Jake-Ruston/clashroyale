@@ -1,0 +1,27 @@
+{
+  "name": "clashroyale",
+  "version": "1.0.0",
+  "description": "An API wrapper for Clash Royale.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jake-Ruston/clashroyale.git"
+  },
+  "keywords": [
+    "clash",
+    "royale",
+    "clashroyale"
+  ],
+  "author": "Jake Ruston <rjake@hotmail.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jake-Ruston/clashroyale/issues"
+  },
+  "homepage": "https://github.com/Jake-Ruston/clashroyale#readme",
+  "dependencies": {
+    "snekfetch": "^3.5.8"
+  }
+}
