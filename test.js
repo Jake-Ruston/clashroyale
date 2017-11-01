@@ -1,2 +1,4 @@
 const cr = require('.');
-cr.getProfile('2J8U0PRJ').then(profile => console.log(profile));
+cr.getClan('2CCCP', '2U2GGQJ').then(profile => console.log(profile));
+
+process.on('unhandledRejection', console.error);
